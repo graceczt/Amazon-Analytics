@@ -2,7 +2,7 @@
 Tableau E-Commerce Sales and Profit Analytics
 
 NOTE !
-- PLEASE DOWNLOAD video to view as Git does not seem to allow to view for huge file.
+- PLEASE DOWNLOAD video ('click Raw') to view .mp4 as Git does not seem to allow to view for huge file.
 
 Exquisites:
 
